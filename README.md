@@ -1,3 +1,3 @@
 # Chess-engine-RL
 
-Chess engine using reinforcment leraning and Monte carlo tree search
+Chess engine using reinforcment learning and Monte carlo tree search
